@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Click Picture Demo</string>
+    <string name="click_picture">Click Picture</string>
+    <string name="camera">Camera</string>
+</resources>
